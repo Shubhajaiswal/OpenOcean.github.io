@@ -1,4 +1,4 @@
-# Open Ocean
+# Open Ocean :earth_africa:
 
 The blockchain is an incorruptible digital ledger of economic transactions that can be programmed to record not just financial transactions but virtually everything of value 
 
