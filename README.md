@@ -27,6 +27,7 @@ There are a number of issues with centralised banking systems. Banks generally d
     -CSS
     -Javascript
     -Figma
-
-
+    
+    
+<img src="https://raw.githubusercontent.com/khushisuri7/OpenOcean.github.io/main/Images/waves.jpg" height="200" width="1200" >
 
