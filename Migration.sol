@@ -1,4 +1,4 @@
-pragma solidity >=0.4.22 <0.9.0;
+pragma solidity;
 
 contract Migrations {
   address public owner = msg.sender;
@@ -7,7 +7,7 @@ contract Migrations {
   modifier restricted() {
     require(
       msg.sender == owner,
-      "This function is restricted to the contract's owner"
+      
     );
     _;
   }
